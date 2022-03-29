@@ -9,3 +9,4 @@ author: Marcos Esteban # Add name author (optional)
 ---
 Esto es un post de pruebas 
 
+![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
